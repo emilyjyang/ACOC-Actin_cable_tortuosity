@@ -31,13 +31,12 @@ filename-tor-roiset.zip
 6. Place the ROI set in a subfolder:
 inputdir/ROI/
 Example folder structure:
-actin_tortuosity_experiment/ /n
-            ├── image1.ome.tiff /n
-            ├── image2.ome.tiff /n
-            └── ROI/ /n
-            ├── image1-tor-roiset.zip /n
-            └── image2-tor-roiset.zip /n
-
+actin_tortuosity_experiment/
+├── image1.ome.tiff
+├── image2.ome.tiff
+└── ROI/
+├── image1-tor-roiset.zip
+└── image2-tor-roiset.zip
 
 ---
 
