@@ -32,11 +32,11 @@ filename-tor-roiset.zip
 inputdir/ROI/
 Example folder structure:
 actin_tortuosity_experiment/
-├── image1.ome.tiff
-├── image2.ome.tiff
-└── ROI/
-├── image1-tor-roiset.zip
-└── image2-tor-roiset.zip
+            ├── image1.ome.tiff
+            ├── image2.ome.tiff
+            └── ROI/
+            ├── image1-tor-roiset.zip
+            └── image2-tor-roiset.zip
 
 
 ---
@@ -92,8 +92,7 @@ actin_tortuosity_experiment/
 
 ## Citation
 If you use this macro in your research, please cite:  
-> [Emily J. Yang], *AOC-ActinCable_Tortuosity-v1.ijm: FIJI Macro for Quantifying Actin Cable Tortuosity in Budding Yeast*, [Year].
-
+> Yang, E.J.-N., Filpo, K., Boldogh, I., Swayne, T.C., and Pon, L.A. "Tying up loose ends: an actin cable organizing center contributes to actin cable polarity, function and quality control in budding yeast." submitted. [2025]
 ---
 
 ## License
